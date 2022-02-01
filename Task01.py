@@ -1,3 +1,4 @@
+#********* Python If-Else ********
 
 while True:
     n = int(input("Reqemi daxil edin: "))

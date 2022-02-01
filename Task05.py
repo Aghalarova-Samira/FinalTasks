@@ -1,3 +1,5 @@
+#********* Print Function *******
+
 n = int(input("reqemi daxil edin: "))
 list = ""
 
